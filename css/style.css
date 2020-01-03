@@ -1,0 +1,35 @@
+*{
+  /* border: 1px solid red; */
+}
+.gg{
+  height: 900px;
+  width: 900px;
+}
+.vid{
+  height: 900px;
+  width: 900px;
+}
+
+.img1 {
+  max-width: 570px;
+}
+a:link{
+  color: red;
+  font-family: 'Abril Fatface', cursive;
+}
+a:visited{
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+}
+a:hover{
+  color: green;
+}
+ul {
+  padding-left: 0;
+}
+li {
+  list-style-type: none;
+}
+table {
+  width: 100%;
+}
